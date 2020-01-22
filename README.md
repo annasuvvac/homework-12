@@ -21,9 +21,9 @@ All employee class attributes are handled in the server and, depending on which 
 <img src="assets/images/node.png">
   view all employees
    <img src="assets/images/node2.png">
-   <add employee>
+   add employee
     <img src="assets/images/node3.png">
-    <view again>
+    view again
      <img src="assets/images/node4.png">
 # Requirments
 This application utilizes several node modules. Run the following npm install accordingly
