@@ -17,9 +17,9 @@ Users are prompted for their desired action which can be:
 
 All employee class attributes are handled in the server and, depending on which role is chosen, a salary, manager, and department are assigned
 # Screenshots
-  <connection>
+  connection
 <img src="assets/images/node.png">
-  <view all employees>
+  view all employees
    <img src="assets/images/node2.png">
    <add employee>
     <img src="assets/images/node3.png">
