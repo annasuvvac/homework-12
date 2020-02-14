@@ -16,7 +16,15 @@ Users are prompted for their desired action which can be:
 
 
 All employee class attributes are handled in the server and, depending on which role is chosen, a salary, manager, and department are assigned
-
+# Screenshots
+  connection
+<img src="assets/images/node.png">
+  view all employees
+   <img src="assets/images/node2.png">
+   add employee
+    <img src="assets/images/node3.png">
+    view again
+     <img src="assets/images/node4.png">
 # Requirments
 This application utilizes several node modules. Run the following npm install accordingly
 
